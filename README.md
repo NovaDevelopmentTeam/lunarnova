@@ -1,5 +1,5 @@
 # lunarnova
-## This is the lunarnova moon-mission license.
+## This is the lunarnova moon-mission project.
 
 # IT'S IMPORTANT TO CONTACT US IF YOU WANT TO HELP US FOR OUR PROJECT. We are coding an system for moon bases at the moment.
 
